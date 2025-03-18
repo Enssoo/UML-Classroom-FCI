@@ -47,21 +47,21 @@ Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com
 
 ```mermaid
 graph TD
-    A(Início) -->|Cliente chega à farmácia| B[Atendente pesquisa produto no sistema]
+    A((Início)) -->|Cliente chega à farmácia| B(Atendente pesquisa produto no sistema)
     B --> C{Produto disponível?}
-    C -->|Sim| D[Registrar venda]
-    D --> E[Associar venda ao CPF do cliente]
-    E --> F[Atualizar estoque automaticamente]
-    F --> G[Gerar cupom fiscal]
-    G --> H[Cliente realiza pagamento]
-    H --> I[Entregar produto ao cliente]
-    I --> J[Fim]
+    C -->|Sim| D(Registrar venda)
+    D --> E(Associar venda ao CPF do cliente)
+    E --> F(Atualizar estoque automaticamente)
+    F --> G(Gerar cupom fiscal)
+    G --> H(Cliente realiza pagamento)
+    H --> I(Entregar produto ao cliente)
+    I --> J((Fim))
 
-    C -->|Não| K[Informar indisponibilidade]
+    C -->|Não| K(Informar indisponibilidade)
     K --> J
 
     subgraph Gestão Administrativa
-        L[Administrador acessa o sistema] --> M[Gerar relatórios de vendas e estoque]
+        L(Administrador acessa o sistema) --> M(Gerar relatórios de vendas e estoque)
     end*
 ```
 
