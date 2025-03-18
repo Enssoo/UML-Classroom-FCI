@@ -35,22 +35,14 @@
 Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com um sistema informatizado. Com a ajuda da MACK Solutions SW, esse sistema vai facilitar o controle de vendas, estoque e clientes, tornando o trabalho mais ágil e eficiente para todos.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Requisitos Funcionais:
-1. Cadastro de Medicamentos e Produtos
-2. Cadastro de Clientes
-3. Processo de Venda
-4. Controle de Estoque
-5. Relatórios Gerenciais
-&gt;*
-
-*&lt;Requisitos Não Funcionais:
-1. Usabilidade
-2. Desempenho
-3. Segurança
-4. Escalabilidade
-5. Confiabilidade
-6. Compatibilidade
-&gt;*
+|Requisitos Funcionais|Requisitos Não Funcionais|
+|---------------------|---------------------|
+|Cadastro de Medicamentos e Produtos|Usabilidade|
+|Cadastro de Clientes|Desempenho|
+|Processo de Venda|Segurança|
+|Controle de Estoque|Escalabilidade|
+|Relatórios Gerenciais|Confiabilidade|
+||Compatibilidade|
 
 # Diagrama de Atividades
 
