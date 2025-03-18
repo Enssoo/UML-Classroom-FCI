@@ -12,8 +12,7 @@
 
 **Conteúdo**
 
-- [Autores]
-(#autores)
+- [Autores](#autores)
 - [Descrição do Projeto]
 (#descrição-do-projeto)
 - [Análise de Requisitos]
