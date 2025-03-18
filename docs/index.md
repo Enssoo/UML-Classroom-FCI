@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Sistema de Gestão para a Farmácia Vida Saudável&gt;*
+# Sistema de Gestão para a Farmácia Vida Saudável
 </center></font>
 
 **Conteúdo**
@@ -44,8 +44,23 @@ Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com
 ||Compatibilidade|
 
 # Diagrama de Atividades
+graph TD
+    A(Início) -->|Cliente chega à farmácia| B[Atendente pesquisa produto no sistema]
+    B --> C{Produto disponível?}
+    C -->|Sim| D[Registrar venda]
+    D --> E[Associar venda ao CPF do cliente]
+    E --> F[Atualizar estoque automaticamente]
+    F --> G[Gerar cupom fiscal]
+    G --> H[Cliente realiza pagamento]
+    H --> I[Entregar produto ao cliente]
+    I --> J[Fim]
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+    C -->|Não| K[Informar indisponibilidade]
+    K --> J
+
+    subgraph Gestão Administrativa
+        L[Administrador acessa o sistema] --> M[Gerar relatórios de vendas e estoque]
+    end*
 
 # Diagrama de Casos de Uso
 
