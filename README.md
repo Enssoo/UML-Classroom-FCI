@@ -21,17 +21,17 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: Sistema de Gestão para a Farmácia Vida Saudável 
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: Ana, Dayô e Enzo
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+A Farmácia Vida Saudável tem crescido e, com isso, surgiu a necessidade de melhorar a organização do dia a dia. Hoje, tudo é feito manualmente, com anotações em cadernos e planilhas, o que pode causar erros e atrasos no atendimento.
+
+Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com um sistema informatizado. Com a ajuda da MACK Solutions SW, esse sistema vai facilitar o controle de vendas, estoque e clientes, tornando o trabalho mais ágil e eficiente para todos.
 
 # Documentação
 
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
-
-
 
 # Releases
 
