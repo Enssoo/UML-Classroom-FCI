@@ -44,6 +44,8 @@ Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com
 ||Compatibilidade|
 
 # Diagrama de Atividades
+
+```mermaid
 graph TD
     A(Início) -->|Cliente chega à farmácia| B[Atendente pesquisa produto no sistema]
     B --> C{Produto disponível?}
