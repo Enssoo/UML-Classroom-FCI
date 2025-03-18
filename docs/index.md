@@ -63,6 +63,7 @@ graph TD
     subgraph Gestão Administrativa
         L[Administrador acessa o sistema] --> M[Gerar relatórios de vendas e estoque]
     end*
+```
 
 # Diagrama de Casos de Uso
 
