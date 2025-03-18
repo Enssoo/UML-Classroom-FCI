@@ -33,9 +33,9 @@
 
 
 # Descrição do Projeto
-*&lt;A Farmácia Vida Saudável tem crescido e, com isso, surgiu a necessidade de melhorar a organização do dia a dia. Hoje, tudo é feito manualmente, com anotações em cadernos e planilhas, o que pode causar erros e atrasos no atendimento.
+A Farmácia Vida Saudável tem crescido e, com isso, surgiu a necessidade de melhorar a organização do dia a dia. Hoje, tudo é feito manualmente, com anotações em cadernos e planilhas, o que pode causar erros e atrasos no atendimento.
 
-Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com um sistema informatizado. Com a ajuda da MACK Solutions SW, esse sistema vai facilitar o controle de vendas, estoque e clientes, tornando o trabalho mais ágil e eficiente para todos.&gt;*
+Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com um sistema informatizado. Com a ajuda da MACK Solutions SW, esse sistema vai facilitar o controle de vendas, estoque e clientes, tornando o trabalho mais ágil e eficiente para todos.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 |Requisitos Funcionais|Requisitos Não Funcionais|
