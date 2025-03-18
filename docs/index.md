@@ -55,14 +55,15 @@ graph TD
     F --> G(Gerar cupom fiscal)
     G --> H(Cliente realiza pagamento)
     H --> I(Entregar produto ao cliente)
-    I --> J((Fim))
+    I --> J(((Fim)))
 
     C -->|Não| K(Informar indisponibilidade)
     K --> J
 
-    subgraph Gestão Administrativa
-        L(Administrador acessa o sistema) --> M(Gerar relatórios de vendas e estoque)
-    end
+    A --> L(Administrador acessa o sistema)
+    L --> M(Gerar relatórios de vendas e estoque)
+    M --> J
+
 ```
 
 # Diagrama de Casos de Uso
