@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema de Gestão para a Farmácia Vida Saudável&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -12,9 +12,6 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
 - [Descrição dos Casos de Uso](#descrição-das-funcões)
@@ -32,13 +29,28 @@
 * Enzo Viana
 
 
-
 # Descrição do Projeto
+*&lt;A Farmácia Vida Saudável tem crescido e, com isso, surgiu a necessidade de melhorar a organização do dia a dia. Hoje, tudo é feito manualmente, com anotações em cadernos e planilhas, o que pode causar erros e atrasos no atendimento.
 
-*&lt;Introdução do projeto&gt;*
+Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com um sistema informatizado. Com a ajuda da MACK Solutions SW, esse sistema vai facilitar o controle de vendas, estoque e clientes, tornando o trabalho mais ágil e eficiente para todos.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt;Requisitos Funcionais:
+1. Cadastro de Medicamentos e Produtos
+2. Cadastro de Clientes
+3. Processo de Venda
+4. Controle de Estoque
+5. Relatórios Gerenciais
+&gt;*
+
+*&lt;Requisitos Não Funcionais:
+1. Usabilidade
+2. Desempenho
+3. Segurança
+4. Escalabilidade
+5. Confiabilidade
+6. Compatibilidade
+&gt;*
 
 # Diagrama de Atividades
 
