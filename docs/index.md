@@ -33,15 +33,15 @@ Objetivo: Desenvolver um sistema para modernizar a gestão da Farmácia Vida Sau
 
 Principais Funcionalidades:
 
-Cadastro de medicamentos, produtos e clientes.
-Registro de vendas com atualização automática do estoque.
-Geração de relatórios gerenciais.
-Controle de acesso para atendentes e administradores.
-Fluxo Básico: O atendente consulta produtos, registra a venda e o estoque é atualizado. O administrador pode acessar relatórios.
-Fases do Projeto:
+* Cadastro de medicamentos, produtos e clientes.
+* Registro de vendas com atualização automática do estoque.
+* Geração de relatórios gerenciais.
+* Controle de acesso para atendentes e administradores.
+* Fluxo Básico: O atendente consulta produtos, registra a venda e o estoque é atualizado. O administrador pode acessar relatórios.
 
-Análise de requisitos
-Modelagem UML (casos de uso, atividades, classes, sequência e implantação).
+Fases do Projeto:
+* Análise de requisitos
+* Modelagem UML (casos de uso, atividades, classes, sequência e implantação).
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 |Requisitos Funcionais|Requisitos Não Funcionais|
