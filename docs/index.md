@@ -29,9 +29,19 @@
 
 
 # Descrição do Projeto
-A Farmácia Vida Saudável tem crescido e, com isso, surgiu a necessidade de melhorar a organização do dia a dia. Hoje, tudo é feito manualmente, com anotações em cadernos e planilhas, o que pode causar erros e atrasos no atendimento.
+Objetivo: Desenvolver um sistema para modernizar a gestão da Farmácia Vida Saudável, automatizando o controle de vendas, estoque e clientes.
 
-Para resolver esse problema, o Sr. Boticário decidiu modernizar a farmácia com um sistema informatizado. Com a ajuda da MACK Solutions SW, esse sistema vai facilitar o controle de vendas, estoque e clientes, tornando o trabalho mais ágil e eficiente para todos.
+Principais Funcionalidades:
+
+Cadastro de medicamentos, produtos e clientes.
+Registro de vendas com atualização automática do estoque.
+Geração de relatórios gerenciais.
+Controle de acesso para atendentes e administradores.
+Fluxo Básico: O atendente consulta produtos, registra a venda e o estoque é atualizado. O administrador pode acessar relatórios.
+Fases do Projeto:
+
+Análise de requisitos
+Modelagem UML (casos de uso, atividades, classes, sequência e implantação).
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 |Requisitos Funcionais|Requisitos Não Funcionais|
