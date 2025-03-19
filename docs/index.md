@@ -74,7 +74,7 @@ Fases do Projeto:
 
 # Diagrama de Atividades
 
-
+![Image](https://github.com/user-attachments/assets/861b17ec-1781-4375-8cd6-740670ed409f)
 
 # Diagrama de Casos de Uso
 
