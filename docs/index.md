@@ -74,11 +74,11 @@ Fases do Projeto:
 
 # Diagrama de Atividades
 
-![Image](https://github.com/user-attachments/assets/861b17ec-1781-4375-8cd6-740670ed409f)
+![Image](https://github.com/user-attachments/assets/37e94a2f-8ca2-4667-993b-38c87dca5488)afd2-efaf7e0ed2a7)
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Image](https://github.com/user-attachments/assets/3236bc1c-2f41-47a5-b55b-e368e352120a)
 
 # Descrição dos Casos de Uso
 
