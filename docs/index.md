@@ -86,7 +86,7 @@ Fases do Projeto:
 |------------------------------|-|
 |**Identificador:**|Login|
 |**Nome:**|Realizar Login|
-|**Atores:**|Usuário|
+|**Atores:**|Atendente, Administrador|
 |**Descrição:**|Permite que o usuário se autentique no sistema, fornecendo suas credenciais.|
 |**Pré-condição:**|O usuário deve possuir uma conta previamente cadastrada no sistema.|
 |**Pós-condição:**|O usuário é autenticado e acessa a área correspondente do sistema.|
@@ -178,7 +178,7 @@ Fases do Projeto:
 |**Descrição:**|Permite que o administrador atualize a quantidade e o valor dos produtos disponíveis no estoque.|
 |**Pré-condição:**|O administrador deve estar autenticado no sistema.|
 |**Pós-condição:**|O estoque é atualizado com as novas quantidades e valores.|
-|**Pontos de Inclusão:**|N/A|
+|**Pontos de Inclusão:**|Relizar Vendas, Cadastrar Produtos|
 |**Pontos de Extensão:**|N/A|
 
 |Fluxo Principal| |
@@ -221,7 +221,7 @@ Fases do Projeto:
 |**Descrição:**|Permite que o administrador adicione novos produtos ao sistema.|
 |**Pré-condição:**|O administrador deve estar autenticado no sistema.|
 |**Pós-condição:**|O produto é cadastrado no banco de dados.|
-|**Pontos de Inclusão:**|N/A|
+|**Pontos de Inclusão:**|Atualizar Estoque|
 |**Pontos de Extensão:**|N/A|
 
 |Fluxo Principal| |
