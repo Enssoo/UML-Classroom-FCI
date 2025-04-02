@@ -82,7 +82,177 @@ Fases do Projeto:
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+|Especificações de Casos de Uso||
+|------------------------------|-|
+|**Identificador:**|Login|
+|**Nome:**|Realizar Login|
+|**Atores:**|Usuário|
+|**Descrição:**|Permite que o usuário se autentique no sistema, fornecendo suas credenciais.|
+|**Pré-condição:**|O usuário deve possuir uma conta previamente cadastrada no sistema.|
+|**Pós-condição:**|O usuário é autenticado e acessa a área correspondente do sistema.|
+|**Pontos de Inclusão:**|N/A|
+|**Pontos de Extensão:**|N/A|
+
+|Fluxo Principal||
+|---------------|-|
+|**Ações do Ator**|**Ações do Sistema**|
+|O ator insere seu nome de usuário e senha.||
+||O sistema valida as credenciais.|
+||O sistema autentica o ator e o direciona para a área correspondente de usuário comum.|
+
+<br/>
+<br/>
+<br/>
+
+|Especificações de Casos de Uso||
+|------------------------------|-|
+|**Identificador:**|Realizar vendas|
+|**Nome:**|Realizar vendas|
+|**Atores:**|Atendente|
+|**Descrição:**|Permite que o atendente registre a venda de produtos para um cliente.|
+|**Pré-condição:**|O atendente deve estar autenticado no sistema.|
+|**Pós-condição:**|A venda é registrada no sistema.|
+|**Pontos de Inclusão:**|Atualizar Estoque|
+|**Pontos de Extensão:**|N/A|
+
+|Fluxo Principal||
+|---------------|-|
+|**Ações do Ator**|**Ações do Sistema**|
+|O atendente seleciona os produtos a serem vendidos.||
+||O sistema calcula o valor total da venda.|
+|O atendente confirma a venda.||
+||O sistema registra a venda e atualiza o estoque.|
+
+<br/>
+<br/>
+<br/>
+
+|Especificações de Casos de Uso||
+|------------------------------|-|
+|**Identificador:**|Consultar Estoque|
+|**Nome:**|Consultar Estoque|
+|**Atores:**|Atendente|
+|**Descrição:**|Permite ao atendente visualizar as quantidades disponíveis de produtos em estoque.|
+|**Pré-condição:**|O atendente deve estar autenticado no sistema.|
+|**Pós-condição:**|O sistema exibe as informações sobre o estoque.|
+|**Pontos de Inclusão:**|N/A|
+|**Pontos de Extensão:**|N/A|
+
+|Fluxo Principal||
+|---------------|-|
+|**Ações do Ator**|**Ações do Sistema**|
+|O atendente acessa a seção de estoque.||
+||O sistema exibe a lista de produtos e suas quantidades disponíveis.|
+
+<br/>
+<br/>
+<br/>
+
+|Especificações de Casos de Uso||
+|------------------------------|-|
+|**Identificador:**|Cadastrar Cliente|
+|**Nome:**|Cadastrar Cliente|
+|**Atores:**|Atendente|
+|**Descrição:**|Permite ao atendente registrar um novo cliente no sistema.|
+|**Pré-condição:**|O atendente deve estar autenticado no sistema.|
+|**Pós-condição:**|O cliente é registrado no banco de dados.|
+|**Pontos de Inclusão:**|N/A|
+|**Pontos de Extensão:**|N/A|
+
+|Fluxo Principal||
+|---------------|-|
+|**Ações do Ator**|**Ações do Sistema**|
+|O atendente acessa a opção de cadastro de clientes.||
+|O atendente insere os dados do novo cliente.||
+||O sistema valida os dados e armazena as informações.|
+
+<br/>
+<br/>
+<br/>
+
+|Especificações de Casos de Uso| |
+|------------------------------|--|
+|**Identificador:**|Atualizar Estoque|
+|**Nome:**|Atualizar Estoque|
+|**Atores:**|Administrador|
+|**Descrição:**|Permite que o administrador atualize a quantidade e o valor dos produtos disponíveis no estoque.|
+|**Pré-condição:**|O administrador deve estar autenticado no sistema.|
+|**Pós-condição:**|O estoque é atualizado com as novas quantidades e valores.|
+|**Pontos de Inclusão:**|N/A|
+|**Pontos de Extensão:**|N/A|
+
+|Fluxo Principal| |
+|---------------|--|
+|**Ações do Ator**|**Ações do Sistema**|
+|O administrador acessa a opção de atualização de estoque.| |
+|O administrador insere os novos valores de produtos.||
+||O sistema atualiza as informações no banco de dados.|
+
+<br/>
+<br/>
+<br/>
+
+|Especificações de Casos de Uso| |
+|------------------------------|--|
+|**Identificador:**|Visualizar Histórico|
+|**Nome:**|Visualizar Histórico|
+|**Atores:**|Administrador|
+|**Descrição:**|Permite ao administrador visualizar o histórico de vendas e atividades do sistema.|
+|**Pré-condição:**|O administrador deve estar autenticado no sistema.|
+|**Pós-condição:**|O sistema exibe o histórico solicitado.|
+|**Pontos de Inclusão:**|N/A|
+|**Pontos de Extensão:**|N/A|
+
+|Fluxo Principal| |
+|---------------|--|
+|**Ações do Ator**|**Ações do Sistema**|
+|O administrador acessa a opção de histórico do sistema.||
+||O sistema exibe as vendas e registros anteriores.|
+
+<br/>
+<br/>
+<br/>
+
+|Especificações de Casos de Uso| |
+|------------------------------|--|
+|**Identificador:**|Cadastrar Produtos|
+|**Nome:**|Cadastrar Produtos|
+|**Atores:**|Administrador|
+|**Descrição:**|Permite que o administrador adicione novos produtos ao sistema.|
+|**Pré-condição:**|O administrador deve estar autenticado no sistema.|
+|**Pós-condição:**|O produto é cadastrado no banco de dados.|
+|**Pontos de Inclusão:**|N/A|
+|**Pontos de Extensão:**|N/A|
+
+|Fluxo Principal| |
+|---------------|--|
+|**Ações do Ator**|**Ações do Sistema**|
+|O administrador acessa a seção de cadastro de produtos.| |
+|O administrador insere os dados do novo produto.||
+||O sistema valida e armazena as informações.|
+
+<br/>
+<br/>
+<br/>
+
+|Especificações de Casos de Uso| |
+|------------------------------|--|
+|**Identificador:**|Gerar Relatórios|
+|**Nome:**|Gerar Relatórios|
+|**Atores:**|Administrador|
+|**Descrição:**|Permite que o administrador gere relatórios sobre vendas, estoque e clientes.|
+|**Pré-condição:**|O administrador deve estar autenticado no sistema.|
+|**Pós-condição:**|O relatório é gerado e exibido ao administrador.|
+|**Pontos de Inclusão:**|N/A|
+|**Pontos de Extensão:**|N/A|
+
+|Fluxo Principal| |
+|---------------|--|
+|**Ações do Ator**|**Ações do Sistema**|
+|O administrador acessa a opção de relatórios.||
+|O administrador seleciona o tipo de relatório desejado.||
+||O sistema gera e exibe o relatório.|
+
 
 # Diagrama de Sequência
 
