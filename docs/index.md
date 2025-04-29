@@ -66,7 +66,7 @@ Fases do Projeto:
 |RNF_03|Desempenho|O tempo de resposta da consulta e respota do sitema deve ser ágil.|
 |RNF_04|Segurança e Conformidade|Os dados dos clientes e das transações devem sert armazenados de forma segura, garantindo conformidade com a LGPD(Lei Geral de Poteção de Dados).|
 |RNF_05|Segurança|O sistema deve exigir autenticação dos funcionários para acesso ás funções administrativas.|
-|RNV_06|Segurança|O banco de dados deve ser preotegido com criptografia para evitar acessos não autorizados.|
+|RNF_06|Segurança|O banco de dados deve ser preotegido com criptografia para evitar acessos não autorizados.|
 |RNF_07|Escalabilidade|O sistema deve suportar um número razoável de usuários simultâneos sem degradação no desempenho.|
 |RNF_08|Backup|O sitema deve realizar backups automáticos diariamente.|
 |RNF_09|Usabilidade|A interface do usário deve ser intuitiva e responsiva, adaptando-se a diferentes dispositivos.|
