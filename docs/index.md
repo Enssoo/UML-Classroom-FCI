@@ -256,7 +256,7 @@ Fases do Projeto:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Image](https://github.com/user-attachments/assets/a5445b41-6940-4268-a13d-b089df360916)
 
 # Diagrama de Classes
 
