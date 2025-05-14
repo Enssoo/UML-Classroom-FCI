@@ -256,11 +256,11 @@ Fases do Projeto:
 
 # Diagrama de Sequência
 
-![Image](https://github.com/user-attachments/assets/a5445b41-6940-4268-a13d-b089df360916)
+![Image](https://github.com/user-attachments/assets/4c7de7a6-061f-4eb2-a6ea-e641d5aede6a)
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Image](https://github.com/user-attachments/assets/def32f81-223d-44bd-981d-bafff0364238)
 
 # Diagrama de Estados
 
