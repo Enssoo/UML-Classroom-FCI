@@ -23,7 +23,7 @@
 
 # Autores
 
-* Ana Clara
+* Ana Clara Soares
 * Dayô Araujo
 * Enzo Viana
 
