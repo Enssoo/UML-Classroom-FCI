@@ -14,7 +14,7 @@
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
 - [Descrição dos Casos de Uso](#descrição-das-funcões)
-- [Diagrama de Senquencia](#diagrama-de-ordem-interações)
+- [Diagrama de Sequencia](#diagrama-de-ordem-interações)
 - [Diagrama de Classes](#diagrama-orientado-objetos)
 - [Diagrama de Estados](#diagrama-estrutura-componente)
 - [Diagrama de Implantação](#diagrama-de-hardware-software)
@@ -264,7 +264,7 @@ Fases do Projeto:
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Image](https://github.com/user-attachments/assets/d47bb5c5-45c0-435d-bd38-fc5764f9d751)
 
 # Diagrama de Implantação
 
