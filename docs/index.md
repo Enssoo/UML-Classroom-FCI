@@ -268,7 +268,7 @@ Fases do Projeto:
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Image](https://github.com/user-attachments/assets/929e4aa8-f5a9-4260-8b50-459d9082e3ea)
 
 # Referências
 
